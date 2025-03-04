@@ -1,0 +1,155 @@
+WorkerThreadPool: 32 threads, 9 max low-priority.
+Initialize godot-rust (API v4.3.stable.official, runtime v4.4.stable.official)
+Godot Engine v4.4.stable.official.4c311cbee - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+JoypadLinux: udev enabled and loaded successfully.
+Xshape 1.1 detected.
+Xinerama 1.1 detected.
+Xrandr 1.6 detected.
+Xrender 0.11 detected.
+Xinput 2.2 detected.
+XInput: Refreshing devices.
+XInput: No touch devices found.
+Devices:
+  #0: AMD AMD Radeon RX 6800 XT (RADV NAVI21) - Supported, Discrete
+Optional extension VK_EXT_astc_decode_mode not found
+Optional extension VK_EXT_debug_marker not found
+- Vulkan Variable Rate Shading supported:
+  Pipeline fragment shading rate
+  Primitive fragment shading rate
+  Attachment fragment shading rate, min texel size: (8, 8), max texel size: (8, 8), max fragment size: (2, 2)
+- Vulkan multiview supported:
+  max view count: 8
+  max instances: 2147483647
+- Vulkan subgroup:
+  size: 64
+  min size: 32
+  max size: 64
+  stages: STAGE_VERTEX, STAGE_TESSELLATION_CONTROL, STAGE_TESSELLATION_EVALUATION, STAGE_GEOMETRY, STAGE_FRAGMENT, STAGE_COMPUTE, STAGE_RAYGEN_KHR, STAGE_ANY_HIT_KHR, STAGE_CLOSEST_HIT_KHR, STAGE_MISS_KHR, STAGE_INTERSECTION_KHR, STAGE_CALLABLE_KHR, STAGE_TASK_NV, STAGE_MESH_NV
+  supported ops: FEATURE_BASIC, FEATURE_VOTE, FEATURE_ARITHMETIC, FEATURE_BALLOT, FEATURE_SHUFFLE, FEATURE_SHUFFLE_RELATIVE, FEATURE_CLUSTERED, FEATURE_QUAD
+  quad operations in all stages
+Vulkan 1.4.305 - Forward+ - Using Device #0: AMD - AMD Radeon RX 6800 XT (RADV NAVI21)
+Startup PSO cache (0.6 MiB)
+Failed loading custom cursor: crossed_circle
+ScreenSaver: DBus 1.16.2 detected.
+FreeDesktopScreenSaver: Acquired screensaver inhibition cookie: 1692449236
+PortalDesktop: DBus 1.16.2 detected.
+Using "default" pen tablet driver...
+Creating VMA small objects pool for memory type index 0
+Shader 'CanvasSdfShaderRD' (group 0) SHA256: 9017588a260dde85a15ceef0f2050d27677567e52504c16499dcdab8baac6646
+Shader 'SkeletonShaderRD' (group 0) SHA256: da8dc822e443fbfd35081e8df308f21b36632e265d24c0ff018c23944d4a4ed5
+Shader 'SortShaderRD' (group 0) SHA256: 57877473058397e31f757bc30eb948b89842f368b07159d5d98a0840f1b10e7c
+Shader 'ParticlesShaderRD' (group 0) SHA256: c02235b58a687d351847baa09af80db6e0b581c5d0beffa5e85d761d7ca255c3
+Shader 'ParticlesCopyShaderRD' (group 0) SHA256: 8e6b4d21331b6c74954dfac06d35e730ecf57ae93bf75bbf18762ef2a75b143f
+Shader 'CanvasShaderRD' (group 0) SHA256: ffda76217e4e495fe8b067e42393413020903607ef10f736bffd0e85478a1cd6
+Shader 'CanvasOcclusionShaderRD' (group 0) SHA256: 78d0dad367da46f8e4d1d005abe201102a3131758d09884cc97d281bf514ae14
+Shader 'ClusterRenderShaderRD' (group 0) SHA256: 4c99f11a99199e7513c6d344830f9919fffefa0d4c3e4d4120190501d4338d69
+Shader 'ClusterStoreShaderRD' (group 0) SHA256: 91826074dde94e9323af1b3d9a29d156830e70bee8fb8ba2bda0138873048c73
+Shader 'ClusterDebugShaderRD' (group 0) SHA256: 985b5ef14a374ce78832875008df89cd8e2278594c8a537755d114a724ad6d06
+Shader 'SceneForwardClusteredShaderRD' (group 0) SHA256: 53867ecae246d84c343008f0db5eb55808d076a2202666dc2980cb0f06e4dcda
+Shader 'SceneForwardClusteredShaderRD' (group 1) SHA256: 8fcb03f0aa9dae31a44636e9ffd67af5cb946442e232af0a1964dda7acef774d
+Shader 'SceneForwardClusteredShaderRD' (group 2) SHA256: f36814d71bcc257ad345aae7038e2ac598805f91149b49a3215abe70c6240a44
+Shader 'SceneForwardClusteredShaderRD' (group 3) SHA256: 4bdf7c3ded30a77488d8f111643872c4d82eb7715e0e0ce05aa85cbbd113ca95
+Shader 'BestFitNormalShaderRD' (group 0) SHA256: 4819dab4e5f5bdf22b40755f36655ec86ea42d98e3c0a8458a11c21be31b427b
+Shader 'ResolveShaderRD' (group 0) SHA256: dccd0136b9fb1f429688bc8bfe8ad9c6de4b5c8623c497d48dfd6c360c0df348
+Shader 'TaaResolveShaderRD' (group 0) SHA256: 2b77dc98f533938b2a85664e8bb29cfd5ad340feee619b65b5067487b1bc996a
+Shader 'Fsr2DepthClipPassShaderRD' (group 0) SHA256: 0555da091823e6658ee9cf131b0aafea4dc705780c177664f892dc03d543c8cd
+Shader 'Fsr2ReconstructPreviousDepthPassShaderRD' (group 0) SHA256: 09d9f47b8a5c91783b11990131d1013f5dc9a9d6ec6cbb8d90c25708101d1f46
+Shader 'Fsr2LockPassShaderRD' (group 0) SHA256: 5d7c8b5e6860518541eee26b04a02eb89bb0f50ae5cb251917bc9b99c4625634
+Shader 'Fsr2AccumulatePassShaderRD' (group 0) SHA256: 00d44cd10bb6949a0c9e650e30298584955e57e0e9c11286f25560081ef458d7
+Shader 'Fsr2RcasPassShaderRD' (group 0) SHA256: dfa04d5dc5540ea7495b9764add1dc6ea310dd52723562cec88b4e11e0fd3cea
+Shader 'Fsr2ComputeLuminancePyramidPassShaderRD' (group 0) SHA256: 145ac58a21acaf9d26897a136b4dfffe37f7a83debe19d45f151a473b0525006
+Shader 'Fsr2AutogenReactivePassShaderRD' (group 0) SHA256: 508e1f1fa8ef0fe41ab8eb4920640988437028150a6589aa8b2f7ae89a467bdb
+Shader 'Fsr2TcrAutogenPassShaderRD' (group 0) SHA256: 4ff0f44fafd2f9983466be6c6a7a2607ab65d1596cd1a28c3b83ee73abedf923
+Shader 'SsEffectsDownsampleShaderRD' (group 0) SHA256: b72aa54adfa9b54d8ce76fad577b08d23873a21b2df58888faaedd7aecce0149
+Shader 'SsilShaderRD' (group 0) SHA256: 403e769e6ee4a4d2baeb58b086d0806a99089912d65d4b3509cabb3ff6956cf8
+Shader 'SsilImportanceMapShaderRD' (group 0) SHA256: b675d965af1246592f45f8104bdbd8c736c8ac9dd6688096ac43de8060bbce22
+Shader 'SsilBlurShaderRD' (group 0) SHA256: 26c8ae160567472810e695594468806817f30e97319300c8d285314ccec5b356
+Shader 'SsilInterleaveShaderRD' (group 0) SHA256: 52723680134f6382c93737963561055ee841940e96ade8f619bf0aaf5ca89050
+Shader 'SsaoShaderRD' (group 0) SHA256: 1b15940fb08b548e116832ad0752647584ea2f8474900aa30662aa6bc1ba3a73
+Shader 'SsaoImportanceMapShaderRD' (group 0) SHA256: 622b3056ad74c5fc86aadb2b8d31afa54779373bcb442f22ce64e8864bfd6c59
+Shader 'SsaoBlurShaderRD' (group 0) SHA256: 5e2253cf24569e798df03b76993d0967030dad47892f34f6a091cab8d2822ff9
+Shader 'SsaoInterleaveShaderRD' (group 0) SHA256: bfdb3705b7b37b60102b3af6d8fe3cf33d292143ab438d402f26be6a58cd6deb
+Shader 'ScreenSpaceReflectionScaleShaderRD' (group 0) SHA256: 50d3b1d6e81825db6710802d79f426abc793707f68ee6fe3a8351a6eaebd4858
+Shader 'ScreenSpaceReflectionShaderRD' (group 0) SHA256: 69a6e8b8d78c134becba202e5618114f5e117a08e9bdf6447aa80654dddb2b5a
+Shader 'ScreenSpaceReflectionFilterShaderRD' (group 0) SHA256: dbcdf18522ef52e1a2ba45f0109c269c0424bda88699a671be82db075aa387d2
+Shader 'SubsurfaceScatteringShaderRD' (group 0) SHA256: 4359570954c72db3acc3e956c034b7912bfc5ebcdaaad8ed2051a174b4d7f3b0
+Shader 'SkyShaderRD' (group 0) SHA256: 38d3d2c98f9ebb4393552afe27bfe600b930e0bd83c32666b69c049571822abb
+Shader 'VoxelGiShaderRD' (group 0) SHA256: 57e708ac010771d7a3c870eb91d0d334e399964fd667591877f9349abcb0f0ac
+Shader 'VoxelGiDebugShaderRD' (group 0) SHA256: 871b12452c037b08ff5f4372cf2e12fedbe6ecef4856d3ad9f7c6e495a1f29c4
+Shader 'SdfgiPreprocessShaderRD' (group 0) SHA256: 1016921fd768a3651261e2f15ab7cf62805e4e50a76ef8343de125957be093a2
+Shader 'SdfgiDirectLightShaderRD' (group 0) SHA256: 1cad21243140aa8bf54c5b6d7bea860e3fa65e56d5796ddd7f788d3a1712979d
+Shader 'SdfgiIntegrateShaderRD' (group 0) SHA256: 2400c002e2f9bab92c0c642661b03949c17d176abdf5c074c89be95bf7b2e6a0
+Shader 'GiShaderRD' (group 0) SHA256: bb3973d0b046a1936ea5c66021be657685b23433dd105b6cfb248a0ee28c4757
+Shader 'SdfgiDebugShaderRD' (group 0) SHA256: bcb50b8ef6f3d7bec08ee0c041ffa75ae6c771b04dfb39c0c66eda7722b22e23
+Shader 'SdfgiDebugProbesShaderRD' (group 0) SHA256: fb9472343d57b342f11023e8291245b2784128fd8b8251c149f0fe515224d2b9
+Shader 'VolumetricFogShaderRD' (group 0) SHA256: e7c5f12a444f87a8bb58e44f5e8ef3ff53c47876021678014eb01f80f7e02ea5
+Shader 'VolumetricFogProcessShaderRD' (group 0) SHA256: b5d1f78cccd569094d62d207f7c10f3eaaf25dcf703903ba985d40082e52996d
+Shader 'BokehDofShaderRD' (group 0) SHA256: 637c7a51bbdb87d2c1346b7a72bfd59a59a1cca55de6e918916dd1b846f151be
+Shader 'CopyShaderRD' (group 0) SHA256: cc668e515c34a535d460ce484d715b99d9e762131571fb421f06d62f7e32192a
+Shader 'CopyToFbShaderRD' (group 0) SHA256: 27ea6bf1012a8b5d5bfb7e235f87708a7197103d8e96f09d8038331b4d83b7d5
+Shader 'CubeToDpShaderRD' (group 0) SHA256: a904b0efa521c405a048bcc71acc6806f5003502bedbd81b555b50acfa66a78b
+Shader 'CubemapDownsamplerShaderRD' (group 0) SHA256: fd855496b56f408e836c947b0a0c1fa6a48e52c7c2b565022a5119f1184f69a8
+Shader 'CubemapFilterShaderRD' (group 0) SHA256: 72d4d3fe05fa655681dcfb7594fddd7d16656839d7431937bcff535d2db3823e
+Shader 'CubemapRoughnessShaderRD' (group 0) SHA256: 67ea060f4cc26be35d0ee14db9fbc15551a54d82bb0deb4e8924cec64a8d3b49
+Shader 'SpecularMergeShaderRD' (group 0) SHA256: 6230f024e7ecbdf38d3a3ce9cb5322543ceeb7cf461d413ad9e27d77f8d2d159
+Shader 'ShadowFrustumShaderRD' (group 0) SHA256: 0c8dd6d669ccd50adf52b13c9b688de014ade6372633f9f62667c3581e50d03e
+Shader 'MotionVectorsShaderRD' (group 0) SHA256: 3a7e3f26a9cd6402ae0980c9afe64c418e601cede8c47534fbf252a3a72f4be9
+Shader 'LuminanceReduceShaderRD' (group 0) SHA256: d65af82938680e39774713ca165ae2aed9e58d431f4df589663be5f580826642
+Shader 'TonemapShaderRD' (group 0) SHA256: 632b4a48450c580a9448f2cafc880f0241297604a6e8efa69c6e11e94967209b
+Shader 'VrsShaderRD' (group 0) SHA256: 44c4ea6770802460e7c61a2ab07fd8797a060e310e1ddff5ba7b818cadd1f340
+Shader 'FsrUpscaleShaderRD' (group 0) SHA256: f7400c03bcc5b4ac7a36098fd46d18298b1cf2691a4d94c8e7a7541ec8487920
+Shader 'BlitShaderRD' (group 0) SHA256: e28e885c05b8cf80eb3f307c4af64cc8b0d3dff33fe0e296172a30c2b0f98789
+PulseAudio 17.0.0 detected.
+PulseAudio: context other
+PulseAudio: context other
+PulseAudio: context other
+PulseAudio: context ready
+PulseAudio: Detecting channels for device: alsa_output.usb-KTMicro_TX_96Khz_USB_Audio_2022-08-08-0000-0000-0000--00.analog-stereo
+PulseAudio: detected 2 output channels
+PulseAudio: audio buffer frames: 512 calculated output latency: 11ms
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+[2025-04-11T05:09:17Z INFO  godot_rust] init
+CORE API HASH: 3954330213
+EDITOR API HASH: 1116905369
+Loaded system CA certificates
+Loading resource: res://src/main.tscn
+Loading resource: res://src/main.gd
+ref_counted: hello
+virtual: 5
+XR: Clearing primary interface
+[2025-04-11T05:09:22Z INFO  godot_rust] deinit
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"
+PulseAudio: context terminated
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+     at: cleanup (core/object/object.cpp:2378)
+Leaked instance: GDScriptNativeClass:9223372050544984714
+ERROR: Cannot get path of node as it is not in a scene tree.
+   at: get_path (scene/main/node.cpp:2345)
+Leaked instance: :29544678725 - Node path:
+Leaked instance: GDScript:9223372066114241864 - Resource path: res://src/example_virtual.gd
+Hint: Leaked instances typically happen when nodes are removed from the scene tree (with `remove_child()`) but not freed (with `free()` or `queue_free()`).
+ERROR: 1 resources still in use at exit.
+   at: clear (core/io/resource.cpp:609)
+Resource still in use: res://src/example_virtual.gd (GDScript)
+Orphan StringName: _enter_tree (static: 0, total: 1)
+Orphan StringName: _set_path_cache (static: 0, total: 1)
+Orphan StringName: _reset_state (static: 0, total: 1)
+Orphan StringName: _unhandled_input (static: 0, total: 1)
+Orphan StringName: _ready (static: 0, total: 1)
+Orphan StringName: _exit_tree (static: 0, total: 1)
+Orphan StringName: _setup_local_to_scene (static: 0, total: 1)
+Orphan StringName: ExampleVirtual (static: 0, total: 3)
+Orphan StringName: _input (static: 0, total: 1)
+Orphan StringName: _example_virtual (static: 0, total: 1)
+Orphan StringName: _shortcut_input (static: 0, total: 1)
+Orphan StringName: _process (static: 0, total: 1)
+Orphan StringName: _unhandled_key_input (static: 0, total: 1)
+Orphan StringName: MyVirtual (static: 1, total: 2)
+Orphan StringName: _get_configuration_warnings (static: 0, total: 1)
+Orphan StringName: _get_rid (static: 0, total: 1)
+Orphan StringName: _physics_process (static: 0, total: 1)
+StringName: 17 unclaimed string names at exit.
