@@ -1,6 +1,8 @@
-# gdrust
+# godot-rust
 
 example addon integrating [Rust-lang](https://rust-lang.org) into [Godot Engine](https://godotengine.org) using [godot-rust](https://godot-rust.github.io)
+
+this addon uses the "gdrust" name internally
 
 ## see also
 
